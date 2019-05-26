@@ -16,6 +16,17 @@ namespace md_maker.Classes.Menus
     /// </remarks>
     class MainMenu
     {
+        public void Start()
+        {
+            DisplayGreeting();
+        }
 
+        private void DisplayGreeting()
+        {
+            Console.WriteLine("Welcome to Markdown Maker!");
+            Console.WriteLine("Getting templates from config...");
+
+
+        }
     }
 }
