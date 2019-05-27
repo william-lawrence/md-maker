@@ -3,17 +3,17 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 
-namespace md_maker.Classes
+namespace MdMaker.Classes
 {
     /// <summary>
     /// Represents a markdown template, where the template lives, and where the complete template should be output.
     /// </summary>
-    class MarkDownTemplate
+    public class MarkDownTemplate
     {
         /// <summary>
         /// The title of the template file.
         /// </summary>
-        public string TemplateTitle { get; set; }
+        public string Title { get; set; }
 
         /// <summary>
         /// The file path where the template exists.

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-
-<config>
-  <template>
-    <name>Software Delvelopment</name>
-    <input-path>C:\Users\William Lawrence\code\md-maker\Templates\software-development-template.md</input-path>
-    <output-path>C:\Users\William Lawrence\code\md-maker\Output</output-path>
-  </template>
-</config>

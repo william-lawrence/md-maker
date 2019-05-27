@@ -1,12 +1,14 @@
-﻿using System;
+﻿using MdMaker.Classes.Menus;
+using System;
 
-namespace md_maker
+namespace MdMaker
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MainMenu mainMenu = new MainMenu();
+            mainMenu.Start();
         }
     }
 }

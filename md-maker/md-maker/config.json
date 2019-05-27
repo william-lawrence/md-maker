@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<config>
+  <template>
+    <name>Software Delvelopment</name>
+    <templatepath>C:\Users\William Lawrence\code\md-maker\Templates\software-development-template.md</templatepath>
+    <outputpath>C:\Users\William Lawrence\code\md-maker\Output</outputpath>
+    <body></body>
+  </template>
+</config>
+
+[{
+  "Template": {
+  "Title": "Software Development",
+  "TemplatePath": "C:\Users\William Lawrence\code\md-maker\Templates\software-development-template.md",
+  "OutputPath": "C:\Users\William Lawrence\code\md-maker\Output",
+  "Body":""
+  }
+}]
